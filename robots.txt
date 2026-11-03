@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://20words.online/sitemap.xml
